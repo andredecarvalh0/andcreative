@@ -1,4 +1,4 @@
-# Hi 👋, I'm [André Carvalho](https://github.com/andcreative), a developer from Brazil. 🧑‍💻 
+# Hi there 👋 I'm [André Carvalho](https://github.com/andcreative), a developer from Brazil. 🧑‍💻 <br>
 ### Developer  |   HTML   |   CSS   |   JavaScript   |   Git   |  🚀 
 
 > I'm a developer who is passionate about tech and building cool projects, looking to solve real-world problems.🌏
