@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi 👋, I'm [André Carvalho](https://github.com/andcreative), a developer from Brazil. 🧑‍💻 
+### Developer  |   HTML   |   CSS   |   JavaScript   |   Git   |  🚀 
 
-<!--
-**andcreative/andcreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a developer who is passionate about tech and building cool projects, looking to solve real-world problems.🌏
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building some JavaScript projects and websites;
+- 🌱 I’m currently learning JavaScript, React, Node;
+- 💬 Ask me about: Technologies, Front-end, Games;
+- 🤝 I’m looking to collaborate on JavaScript projects;
+- 💻 Front-End: JavaScript, HTML, CSS.
+- 🖱️ Deploy: Git, Github.
+- 🖥️ Desktop Environment: Windows, Ubuntu, Android, Slack.
+- 💡 Design: Adobe XD, Photoshop and Illustrator, Figma.
+- 📚 CMS: Wordpress, Elementor.
+- 📝 Editors: VSCode, Sublime Text.
+- ⚡ Fun fact: I have a degree in business administration and finance specialization. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Where to find me
+
+[Personal Website](https://andcreative.com.br "Personal Website") | [GitHub Profile](https://github.com/andcreative "GitHub Profile") | [LinkedIn Profile](https://www.linkedin.com/in/andre-oliveira-de-carvalho/ "LinkedIn Profile") | [Twitter Profile](https://twitter.com/andredecarvalh0 "Twitter Profile")
+                         
