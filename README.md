@@ -3,19 +3,21 @@
 
 > I'm a developer who is passionate about tech and building cool projects, looking to solve real-world problems.🌏
 
-- 🔭 I’m currently building some JavaScript projects and websites;
-- 🌱 I’m currently learning JavaScript, React, Node;
-- 💬 Ask me about: Technologies, Front-end, Games;
-- 🤝 I’m looking to collaborate on JavaScript projects;
+- 🔭 I’m currently building some `JavaScript` projects and `websites`;
+- 🌱 I’m currently learning `JavaScript`, `AWS`, `VTEX IO`, `React`;
+- 🔜 I will learn next `Node`, `React Native`
+- 🔤 I have basic knowledge in `Phyton`, `Java`, 
+- 💬 Ask me about: `Technologies`, `Front-end`, `UI|UX`, `Games`;
+- 🤝 I’m looking to collaborate on `JavaScript` projects;
 - ⚡ Fun fact: I have a degree in business administration and finance specialization. 
 
 ### 🚀 Languages and tools:
 
-- 💻 <b>Front-End:</b> JavaScript, HTML, CSS. <br>
-- 📦 <b>Deploy:</b> Git, Github. <br>
-- 🎨 <b>Design:</b> Adobe XD, Photoshop and Illustrator, Figma. <br>
-- 📚 <b>CMS:</b> Wordpress, Elementor.<br>
-- 📝 <b>Editors and Operating Systems:</b> VSCode, Windows, Ubuntu, Android.
+- 💻 <b>Front-End:</b> `JavaScript`, `HTML`, `CSS`. <br>
+- 📦 <b>Deploy:</b> `Git`, `Github`. <br>
+- 🎨 <b>Design:</b> `Adobe XD`, `Photoshop` and `Illustrator`, `Figma`. <br>
+- 📚 <b>CMS:</b> `Wordpress`, `Elementor`.<br>
+- 📝 <b>Editors and Operating Systems:</b> `VSCode`, `Windows`, `Ubuntu`, `Android`.
 
 ### 📫 Where to find me
 
