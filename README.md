@@ -32,11 +32,6 @@
 [![PIX](https://img.shields.io/badge/pix-30363D?style=for-the-badge&logo=PIX&logoColor=#008000)](https://drive.google.com/file/d/1gj-aE6lkyj7y-IdHOGwDF-Nmrm-i5CEm/view?usp=sharing)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=4U2BGNTBMZDGU&no_recurring=0&item_name=Thanks%21&currency_code=BRL)
 
-### 🔬 Infos:
-
-[![andcreative](https://github-readme-stats.vercel.app/api/top-langs/?username=andcreative&hide=html&layout=compact&theme=default)](https://github.com/andcreative/)
-
-
 ##
 
 <p align="center">Copyright © 2022 and. Creative</p>
