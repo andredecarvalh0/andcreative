@@ -20,3 +20,6 @@
 ### 📫 Where to find me
 
 [Personal Website](https://andcreative.com.br "Personal Website") | [GitHub Profile](https://github.com/andcreative "GitHub Profile") | [LinkedIn Profile](https://www.linkedin.com/in/andre-oliveira-de-carvalho/ "LinkedIn Profile") | [Twitter Profile](https://twitter.com/andredecarvalh0 "Twitter Profile")
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=andcreative&theme=cobalt)](https://github.com/andcreative/)
