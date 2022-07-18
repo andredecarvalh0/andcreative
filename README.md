@@ -22,4 +22,5 @@
 [Personal Website](https://andcreative.com.br "Personal Website") | [GitHub Profile](https://github.com/andcreative "GitHub Profile") | [LinkedIn Profile](https://www.linkedin.com/in/andre-oliveira-de-carvalho/ "LinkedIn Profile") | [Twitter Profile](https://twitter.com/andredecarvalh0 "Twitter Profile")
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=andcreative&theme=defaultt&show_icons=true)](https://github.com/andcreative/) [![andcretive](https://github-readme-stats.vercel.app/api/top-langs/?username=andcreative&hide=html&layout=compact=true&theme=default)](https://github.com/andcretive/)
+[![card](https://github-readme-stats.vercel.app/api?username=andcreative&theme=defaultt&show_icons=true)](https://github.com/andcreative/) 
+[![andcretive](https://github-readme-stats.vercel.app/api/top-langs/?username=andcreative&hide=html&layout=compact=true&theme=default)](https://github.com/andcretive/)
