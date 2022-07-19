@@ -18,7 +18,7 @@
 - 🗃 <b>Database</b> `MySQL`. <br>
 - 📚 <b>CMS:</b> `Wordpress`, `Elementor`.<br>
 - 📝 <b>Editors and Operating Systems:</b> `VSCode`, `Windows`, `Ubuntu`, `Android`.
-- 🎨 <b>Design:</b> `Adobe XD`, `Photoshop` and `Illustrator`, `Figma`. <br>
+- 🎨 <b>Design:</b> `Adobe XD`, `Adobe Photoshop`, `Adobe Illustrator` and `Figma`. <br>
 
 ### 📫 Where to find me:
 
