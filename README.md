@@ -4,9 +4,9 @@
 > I'm a developer who is passionate about tech and building cool projects, looking to solve real-world problems.🌏
 
 - 🔭 I’m currently building some `JavaScript` projects and `websites`;
-- 🌱 I’m currently learning `JavaScript`, `AWS`, `VTEX IO`, ;
+- 🌱 I’m currently learning `JavaScript`, `AWS`, `VTEX IO`;
 - 🔜 I will learn next `React`, `Node`, `React Native`;
-- 🔤 I have basic knowledge in `Phyton`, `MySQL`, `Java`, `Typescript', `GraphQL';
+- 🔤 I have basic knowledge in `Phyton`, `MySQL`, `Java`, `Typescript', `GraphQL`;
 - 💬 Ask me about: `Technologies`, `Front-end`, `UI|UX`, `Games`;
 - 🤝 I’m looking to collaborate on `JavaScript` projects;
 - ⚡ Fun fact: I have a degree in business administration and finance specialization. 
